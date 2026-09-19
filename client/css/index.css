@@ -1,5 +1,5 @@
 .body{
- width: 100%;
+  width: 100%;
   height: 100vh;
   margin: 0;
   background-color: #1b1b32;
@@ -10,6 +10,17 @@
 .header {
   text-align: center;
 }
-h1{
+.h1{
     text-align: center;
+}
+
+.blue{
+
+}
+.gallery img {
+  width: 100%;
+  max-width: 350px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
 }
